@@ -1,0 +1,9 @@
+gradio
+chromadb
+pypdf
+langchain
+langchain-community
+transformers
+torch
+beautifulsoup4
+requests
